@@ -1,0 +1,1 @@
+print("Hello ya filthy animal! Welcome to CS50 Day 1... eeesh hahahaha")
